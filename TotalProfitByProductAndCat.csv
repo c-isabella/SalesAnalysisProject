@@ -1,0 +1,33 @@
+Product,Total_Profit,Category
+Laptops,164.0,Electronics
+Bookcases,116.0,Furniture
+Beds,108.0,Furniture
+Desks,87.0,Furniture
+Sofas,84.0,Furniture
+Chairs,76.0,Furniture
+Tables,72.0,Furniture
+Printers,63.6,Electronics
+Cameras,60.0,Electronics
+Smartphones,56.0,Electronics
+Outdoor Furniture,55.0,Furniture
+Tablets,54.0,Electronics
+Monitors,42.0,Electronics
+Phones,40.0,Electronics
+Headphones,32.4,Electronics
+Storage,25.0,Furniture
+Smartwatches,24.0,Electronics
+Notebooks,22.4,Office Supplies
+Lighting,18.0,Furniture
+Speakers,12.0,Electronics
+Paper,12.0,Office Supplies
+Accessories,10.0,Electronics
+Staplers,8.4,Office Supplies
+Pens,6.0,Office Supplies
+Scissors,4.5,Office Supplies
+Markers,2.4,Office Supplies
+Erasers,1.8,Office Supplies
+Envelopes,1.5,Office Supplies
+Pencils,1.2,Office Supplies
+Rulers,1.2,Office Supplies
+Glue,1.0,Office Supplies
+Tape,0.75,Office Supplies
